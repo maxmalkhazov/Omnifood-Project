@@ -113,14 +113,14 @@ $(document).ready(function() {
 
 	var map = new GMaps({
 	  div: '.map',
-	  lat: 41.8814659,
-	  lng: -87.5987966,
-	  zoom: 13
+	  lat: 41.8818735,
+	  lng: -87.6100943,
+	  zoom: 14
 	});
 
 	map.addMarker({
-	  lat: 41.882065,
-	  lng: -87.6300497,
+	  lat: 41.8818735,
+	  lng: -87.6298327,
 	  title: 'Chicago',
 	  infoWindow: {
 		  content: '<p>Our Chicago HQ</p>'
