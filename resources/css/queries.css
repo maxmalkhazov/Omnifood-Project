@@ -172,9 +172,9 @@
 		font-weight: 400;
 	}
 
-	.footer-nav li { 
-		display: block;
-		padding-bottom: 5px;
+	 .social-links,
+         .footer-nav {
+    	        display: inline;
         }
 
 }
