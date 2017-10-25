@@ -174,9 +174,11 @@
 	
 	.social-links {
 		float-left;
+	}
 	
 	header {
-		background-position: repeat;
+		background-position: left top;
+	}
 
 }
 
