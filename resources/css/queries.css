@@ -173,11 +173,7 @@
 	}
 	
 	.social-links {
-		float-left;
-	}
-	
-	header {
-		background-position: left top;
+		float: left;
 	}
 
 }
