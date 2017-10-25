@@ -114,7 +114,7 @@ $(document).ready(function() {
 	var map = new GMaps({
 	  div: '.map',
 	  lat: 41.8818735,
-	  lng: -87.6170943,
+	  lng: -87.6190943,
 	  zoom: 14
 	});
 
