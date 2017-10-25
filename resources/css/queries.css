@@ -171,11 +171,9 @@
 		font-size: 85%;
 		font-weight: 400;
 	}
-
-	 .social-links,
-         .footer-nav {
-    	        display: inline;
-        }
+	
+	header {
+		background-size: repeat;
 
 }
 
