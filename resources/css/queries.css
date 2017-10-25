@@ -92,7 +92,11 @@
 
 	.main-nav {display: none;}
 
-	.mobile-nav-icon { display: inline-block; }
+	.mobile-nav-icon {
+	    display: inline-block;
+	    position: relative;
+	    z-index: 9999;
+	}
 
 	.main-nav {
 		float: left;
