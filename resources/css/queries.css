@@ -172,8 +172,11 @@
 		font-weight: 400;
 	}
 	
+	.social-links {
+		float-left;
+	
 	header {
-		background-size: repeat;
+		background-position: repeat;
 
 }
 
