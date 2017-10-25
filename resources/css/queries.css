@@ -172,8 +172,10 @@
 		font-weight: 400;
 	}
 
-	.social-links { float: left; }
-}
+	.footer-nav li { 
+		display: block;
+		padding-bottom: 5px;
+        }
 
 }
 
